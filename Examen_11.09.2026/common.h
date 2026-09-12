@@ -1,3 +1,5 @@
+#include <sys/un.h>
+
 #define NR_PORTS  4
 #define BUFFER_SIZE  10
 #define CAM_SIZE  256
